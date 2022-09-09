@@ -1,0 +1,7 @@
+.card-title{
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+    text-overflow: ellipsis;
+    font-size: 1.1rem;
+}

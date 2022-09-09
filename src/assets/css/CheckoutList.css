@@ -1,0 +1,6 @@
+.checkoutList > h2{
+    color: rgb(95, 92, 92);
+}
+.checkoutList thead{
+    background-color: rgb(156, 151, 151)!important;
+}
